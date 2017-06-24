@@ -1,14 +1,14 @@
 {
-  "name": "react-scripts",
+  "name": "suzuki11109-react-scripts",
   "version": "1.0.7",
-  "description": "Configuration and scripts for Create React App.",
-  "repository": "facebookincubator/create-react-app",
+  "description": "Custom Configuration and scripts for Create React App.",
+  "repository": "suzuki11109/create-react-app",
   "license": "BSD-3-Clause",
   "engines": {
     "node": ">=6"
   },
   "bugs": {
-    "url": "https://github.com/facebookincubator/create-react-app/issues"
+    "url": "https://github.com/suzuki11109/create-react-app/issues"
   },
   "files": [
     "bin",
